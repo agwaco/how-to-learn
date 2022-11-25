@@ -1,0 +1,12 @@
+.opacity {
+    -moz-transition: all 0.8s; 
+    -webkit-transition: all 0.8s;  
+    -ms-transition: all 0.8s;  
+    -o-transition: all 0.8s;  
+    transition: all 0.8s; 
+    opacity: 1;
+}
+  
+.opacity:hover {
+    opacity: 0.5;
+}
